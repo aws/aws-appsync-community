@@ -1,12 +1,6 @@
-# AWS AppSync Community
+# AWS AppSync
 
 [AWS AppSync](https://aws.amazon.com/appsync/) is a managed GraphQL service for application data and a back-end for mobile, web, and enterprise applications.
-
-AWS AppSync makes it easy to build data driven mobile and web applications by handling securely all the application data management tasks like online and offline data access, data synchronization, and data manipulation across multiple data sources. AWS AppSync uses GraphQL, an API query language designed to build client applications by providing an intuitive and flexible syntax for describing their data requirement.
-
-This repository is for AWS AppSync community activities.
-
----
 
 ![Awesome AWS AppSync](https://s3.amazonaws.com/aws-mobile-hub-images/awesomeappsync.jpg)
 
@@ -148,7 +142,3 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 ## Books
 
 - [Serverless GraphQL APIs with Amazon's AWS AppSync](https://www.amazon.com/Serverless-GraphQL-Amazons-AppSync-API-University-ebook/dp/B07DDD5NHF)
-
-## License
-
-This repository is licensed under the Apache 2.0 License. 
