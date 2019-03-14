@@ -94,7 +94,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS re:Invent 2018: Develop Cross-Platform Mobile Apps with React Native, GraphQL, & AWS](https://www.youtube.com/watch?v=38Y-XvMYpfA)
 
 ## News
-- [https://aws.amazon.com/blogs/mobile/aws-joins-the-graphql-foundation/](AWS joins the GraphQL Foundation)
+- [AWS joins the GraphQL Foundation](https://aws.amazon.com/blogs/mobile/aws-joins-the-graphql-foundation/)
 
 ## Example Projects
 
