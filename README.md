@@ -45,12 +45,15 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Build a serverless url shortener with AWS AppSync and React](https://medium.com/@jobwiegant.1975/build-a-serverless-url-shortener-with-aws-appsync-and-react-part-1-4f09f50b6f9f)
 - [AWS AppSync code-centric development using CloudFormation](https://blissful.cc/articles/aws-appsync-code-centric-development-using-cloudformation/)
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
+- [Dead-simple AWS GraphQL API ](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
+- [Calling AWS AppSync, or any GraphQL API, from AWS Lambda, part 1](https://www.fullsapps.com/2019/02/calling-aws-appsync-or-any-graphql-api.html)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
 - [Build a GraphQL Service the easy way with AWS Amplify Model Transforms](https://medium.com/open-graphql/build-a-graphql-service-the-easy-way-with-aws-amplify-model-transforms-b3929b4f24c3)
 
 #### React
+- [Getting into GraphQL with AWS AppSync](https://css-tricks.com/getting-into-graphql-with-aws-appsync/)
 - [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 - [Implementing Search in GraphQL](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
@@ -59,6 +62,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [GraphQL made easy by AWS AppSync](https://medium.com/@jorgenlybeck94/graphql-made-easy-by-aws-appsync-21dfae586d51)
 - [Building a chat application using AWS AppSync and Serverless](https://serverless.com/blog/building-chat-appliation-aws-appsync-serverless/)
 - [Building Chatt - A Real-time Multi-user GraphQL Chat App](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
+- [https://dev.to/exodevhub/react-in-a-serverless-world-2m3d](React in a Serverless World)
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
@@ -79,6 +83,9 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### Angular
 - [Ionic 4 + AppSync: Build a mobile app with a GraphQL backend - 4 Part Series](https://gonehybrid.com/ionic-4-appsync-build-a-mobile-app-with-a-graphql-backend-part-1/)
+
+#### Serverless Framework
+- [GraphQL APIs with AWS AppSync (3 part series)](https://medium.com/@cbartling/graphql-apis-with-aws-appsync-part-one-bb441a5c2d9b)
 
 ## Tutorials - Videos
 - [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
@@ -112,6 +119,8 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [React Native example with user authentication & authorization](https://github.com/dabit3/appsync-react-native-with-user-authorization)
 
 #### React
+- [Hype Beats](https://github.com/dabit3/hype-beats)
+- [Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
 - [AWS AppSync Chat with AI features - Chatbots, Image Recognition, Sentiment Analisys, Translation, Text2Speech](https://github.com/aws-samples/aws-appsync-chat-starter-react)
 - [GraphQL events app with realtime and offline functionality using AWS AppSync ](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
@@ -135,6 +144,10 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Serverless Application Model and custom resolver using Lamda with Go](https://github.com/sbstjn/appsync-resolvers-example)
 - [Serverless GraphQL Examples for AWS AppSync and Apollo](https://github.com/serverless/serverless-graphql)
 - [React State Museum](https://github.com/GantMan/ReactStateMuseum)
+- [AWS AppSync Calculator](https://medium.com/@ryanjones_io/aws-appsync-calculator-a2ad9f65a5e3)
+- [Beginner-friendly mobile backend based on AWS AppSync](https://cloudonaut.io/beginner-friendly-mobile-backend-based-on-aws-appsync/)
+- [Create an AWS AppSync API using SAM - SnappyFeatures #3](https://www.youtube.com/watch?v=J0qfMYRmQcc)
+- [AWS Chatt with ReasonML and Bucklescript](https://medium.com/@idkjs/aws-chatt-with-reasonml-and-bucklescript-895c353c3690?_branch_match_id=561306255803447569)
 
 ## Tooling
 
