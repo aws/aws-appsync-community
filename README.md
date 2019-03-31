@@ -14,7 +14,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS Amplify Client](https://github.com/aws/aws-amplify)
 - [AWS AppSync iOS SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-ios)
 - [AWS AppSync Android SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-android)
-
+- [AWS AppSync Go client](https://github.com/sony/appsync-client-go)
 ## Documentation
 - [Developer Guide](https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html)
 - [Building a React App](https://docs.aws.amazon.com/appsync/latest/devguide/building-a-client-app-react.html)
