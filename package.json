@@ -1,0 +1,22 @@
+{
+  "name": "aws-appsync-community",
+  "version": "1.0.0",
+  "description": "[AWS AppSync](https://aws.amazon.com/appsync/) is a managed GraphQL service for application data and a back-end for mobile, web, and enterprise applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aws/aws-appsync-community.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/aws/aws-appsync-community/issues"
+  },
+  "homepage": "https://github.com/aws/aws-appsync-community#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.7.1"
+  }
+}
