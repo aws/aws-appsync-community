@@ -62,7 +62,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [GraphQL made easy by AWS AppSync](https://medium.com/@jorgenlybeck94/graphql-made-easy-by-aws-appsync-21dfae586d51)
 - [Building a chat application using AWS AppSync and Serverless](https://serverless.com/blog/building-chat-appliation-aws-appsync-serverless/)
 - [Building Chatt - A Real-time Multi-user GraphQL Chat App](https://dev.to/dabit3/building-chatt---a-real-time-multi-user-graphql-chat-app-3jik)
-- [https://dev.to/exodevhub/react-in-a-serverless-world-2m3d](React in a Serverless World)
+- [React in a Serverless World](https://dev.to/exodevhub/react-in-a-serverless-world-2m3d)
 
 #### React Native
 - [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062)
