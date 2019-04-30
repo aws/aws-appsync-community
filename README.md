@@ -15,6 +15,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS AppSync iOS SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-ios)
 - [AWS AppSync Android SDK](https://github.com/awslabs/aws-mobile-appsync-sdk-android)
 - [AWS AppSync Go client](https://github.com/sony/appsync-client-go)
+
 ## Documentation
 - [Developer Guide](https://docs.aws.amazon.com/appsync/latest/devguide/welcome.html)
 - [Building a React App](https://docs.aws.amazon.com/appsync/latest/devguide/building-a-client-app-react.html)
@@ -30,6 +31,12 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 ## Tutorials - Blogs
 
 #### General
+- [Invoke AWS services directly from AWS AppSync](https://aws.amazon.com/blogs/mobile/invoke-aws-services-directly-from-aws-appsync/)
+- [Getting Started with Amazon Aurora Serverless Database with Data API](https://read.acloud.guru/getting-started-with-the-amazon-aurora-serverless-data-api-6b84e466b109)
+- [Creating GraphQL Batch Operations for AWS Amplify with AppSync and Cognito](https://medium.com/@jan.hesters/creating-graphql-batch-operations-for-aws-amplify-with-appsync-and-cognito-ecee6938e8ee)
+- [Building a Fully Serverless Realtime CMS using AWS Appsync and Aurora Serverless](https://medium.com/the-apps-team/building-a-fully-serverless-realtime-cms-using-aws-appsync-and-aurora-serverless-7258fe1925f7)
+- [Visualizing time series data in Vue.js](https://medium.com/js-dojo/visualizing-time-series-data-in-vue-js-6a917ea5d869)
+- [Invoking AWS Services from AppSync HTTP Resolvers](https://hackernoon.com/invoking-aws-services-from-appsync-http-resolvers-4e2c54784204)
 - [The three ways to execute a GraphQL query from React with AWS AppSync](https://medium.com/open-graphql/the-three-ways-to-execute-a-graphql-query-from-react-with-aws-appsync-and-how-to-choose-49450fb9f98)
 - [Intro to AWS AppSync Pipeline Functions](https://medium.com/open-graphql/intro-to-aws-appsync-pipeline-functions-3df87ceddac1)
 - [Using AWS AppSync Pipeline Resolvers for GraphQL Authorization](https://medium.com/@crhuber/using-aws-appsync-pipeline-resolvers-for-graphql-authorization-d04bb7a8dc44)
@@ -47,6 +54,9 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
 - [Dead-simple AWS GraphQL API ](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
 - [Calling AWS AppSync, or any GraphQL API, from AWS Lambda, part 1](https://www.fullsapps.com/2019/02/calling-aws-appsync-or-any-graphql-api.html)
+
+#### VTL
+- [AWS AppSync Velocity Templates Guide](https://medium.com/@gerard.sans/aws-appsync-velocity-templates-guide-55b9d2bff053)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -119,6 +129,8 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [React Native example with user authentication & authorization](https://github.com/dabit3/appsync-react-native-with-user-authorization)
 
 #### React
+- [SpeakerChat - Real-time Event Q&A Platform with Markdown Support](https://github.com/dabit3/speakerchat)
+- [Write with Me - Real-time Collaborative Markdown Editor](https://github.com/dabit3/write-with-me)
 - [Hype Beats](https://github.com/dabit3/hype-beats)
 - [Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
