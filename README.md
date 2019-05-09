@@ -97,6 +97,9 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 #### Serverless Framework
 - [GraphQL APIs with AWS AppSync (3 part series)](https://medium.com/@cbartling/graphql-apis-with-aws-appsync-part-one-bb441a5c2d9b)
 
+#### Performance and Monitoring
+- [Getting more visibility into GraphQL performance with AWS AppSync logs](https://aws.amazon.com/blogs/mobile/getting-more-visibility-into-graphql-performance-with-aws-appsync-logs)
+
 ## Tutorials - Videos
 - [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
 - [How to AWS AppSync (YouTube)](https://www.youtube.com/playlist?list=PLrHsRbHuA_HVl5q2mQ6q7wjTitskiUuu6)
