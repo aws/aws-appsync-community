@@ -117,7 +117,7 @@ type Mutation {
      "version": "2017-02-28",
      "payload": {
          "id": "${context.arguments.id}",
-         "volume": "${context.arguments.weight}"
+         "volume": "${context.arguments.volume}"
      }
 }
 ```
