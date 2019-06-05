@@ -8,11 +8,11 @@ Let's build an [AWS AppSync GraphQL API](https://aws.amazon.com/appsync) to trac
 
 You can login to the [**AWS AppSync console**](https://us-west-2.console.aws.amazon.com/appsync/home?region=us-west-2#/) using your account. Please create an account if you don't have one.
 
-We will start with a brief introduction to GraphQL and AWS AppSync.
-
 ## **Create the Schema and a Query**
 
 AWS AppSync supports schema-first development. Let's create the backend for our app containing a minimal GraphQL schema and add a query.
+
+![AWS AppSync with a Mock Data Source](altconf_mockresolver.png)
 
 * Open the **AWS AppSync Console**.
 * Verify the Region is **US West (Oregon)**.
@@ -182,6 +182,8 @@ We've activated a subscribes to changes processed by the `setCarafe` mutation. I
 We've used a mock data source until now. Changes made by our mutations are not stored anywhere and hence our queries don't read that data.
 
 Let's change that by using Amazon DynamoDB, a key-value and document database to store the coffee volume. You can start with a table and import it into AWS AppSync. In this workshop, we'll start with the GraphQL schema and have AWS AppSync generate the DynamoDB table instead.
+
+![AWS AppSync with an Amazon DynamoDB Data Source](altconf_dynamodbresolver.png)
 
 * In the **Schema** tab, click on **Create Resources**
 * Select the **Use existing type** and select **Carafe**
