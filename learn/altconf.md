@@ -247,7 +247,7 @@ Try this out with several different mutations, queries, and subscriptions. What 
 ## Build a Swift app 
 We are getting close to time so here's homework. Build a Swift app that displays the volume of the coffee carafe. Subscribe to the change notification to update the volume in real-time. You can base your solution on the [AWS AppSync sample app for iOS](https://github.com/aws-samples/aws-mobile-appsync-events-starter-ios).
 
-Post a link to your app by [creating an issue](https://github.com/aws/aws-appsync-community/issues/) at [awsappsync.dev](https://awsappsync.dev). We will send every contributor a free t-shirt!
+Post a link to your app by [creating an issue](https://github.com/aws/aws-appsync-community/issues/) at [awsappsync.dev](https://awsappsync.dev). 
 
 ## Feedback
 
