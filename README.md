@@ -81,6 +81,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Code an App With GraphQL, React Native and AWS AppSync: The App](https://code.tutsplus.com/tutorials/code-an-app-with-graphql-react-native-and-aws-appsync-the-app--cms-30569)
 - [Integrating Amazon Cognito Authentication with AWS AppSync on React Native](https://itnext.io/integrating-amazon-cognito-authentication-with-the-aws-appsync-graphql-client-4282afb6eee1)
 - [Integrating AWS AppSync with React-Native-Navigation](https://medium.com/@ryanu_81365/integrating-aws-appsync-with-react-native-navigation-466e103e7c15)
+- [Authentication 🔐 FULL SETUP](https://itnext.io/aws-amplify-react-native-authentication-full-setup-7764b452a138)
 
 #### Native Android
 - [Connect an Android Kotlin App to the cloud with AWS AppSync and Android ](https://medium.com/@FizzyInTheHall/connect-an-android-kotlin-app-to-the-cloud-with-aws-appsync-and-android-architecture-components-b36deaafe52c)
