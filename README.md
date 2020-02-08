@@ -57,6 +57,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### VTL
 - [AWS AppSync Velocity Templates Guide](https://medium.com/@gerard.sans/aws-appsync-velocity-templates-guide-55b9d2bff053)
+- [AWS AppSync and the GraphQL Info Object](https://aws.amazon.com/blogs/mobile/appsync-and-the-graphql-info-object/)
 
 #### AWS Amplify
 - [8 steps to building your own serverless GraphQL API using AWS Amplify](https://read.acloud.guru/8-steps-to-building-your-own-serverless-graphql-api-using-aws-amplify-42c21770424d)
@@ -100,6 +101,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### Performance and Monitoring
 - [Getting more visibility into GraphQL performance with AWS AppSync logs](https://aws.amazon.com/blogs/mobile/getting-more-visibility-into-graphql-performance-with-aws-appsync-logs)
+- [Tracing with AWS X-Ray](https://docs.aws.amazon.com/appsync/latest/devguide/x-ray-tracing.html)
 
 ## Tutorials - Videos
 - [Scalable Offline-Ready GraphQL Applications with AWS AppSync & React](https://egghead.io/courses/scalable-offline-ready-graphql-applications-with-aws-appsync-react)
