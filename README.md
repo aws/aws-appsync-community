@@ -145,6 +145,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [Unicorn Loyalty: E-Commerce Serverless GraphQL Loyalty Sample App](https://github.com/aws-samples/aws-serverless-appsync-loyalty)
+- [AWS AppSync With Apollo 3.0 using Links, React Hooks and Typescript](https://github.com/wolfeidau/appsync-apollo-links)
 
 #### Angular
 - [GraphQL PWA chat app w/ realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-chat-starter-angular)
