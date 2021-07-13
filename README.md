@@ -129,7 +129,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Hype Beats](https://github.com/dabit3/hype-beats)
 - [Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
-- [AWS AppSync Chat with AI features - Chatbots, Image Recognition, Sentiment Analisys, Translation, Text2Speech](https://github.com/aws-samples/aws-appsync-chat-starter-react)
+- [AWS AppSync Chat with AI features - Chatbots, Image Recognition, Sentiment Analysis, Translation, Text2Speech](https://github.com/aws-samples/aws-appsync-chat-starter-react)
 - [GraphQL events app with realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
@@ -140,7 +140,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [GraphQL PWA chat app w/ realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-chat-starter-angular)
 
 #### Vue
-- [Vue example using GraphQL with AWS AppSync](https://github.com/dabit3/vue-graphql-appsync)\
+- [Vue example using GraphQL with AWS AppSync](https://github.com/dabit3/vue-graphql-appsync)
 
 #### Native iOS
 - [GraphQL events application with realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-ios)
@@ -149,7 +149,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [GraphQL events application using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-android)
 
 #### Other
-- [Serverless Application Model and custom resolver using Lamda with Go](https://github.com/sbstjn/appsync-resolvers-example)
+- [Serverless Application Model and custom resolver using Lambda with Go](https://github.com/sbstjn/appsync-resolvers-example)
 - [Serverless GraphQL Examples for AWS AppSync and Apollo](https://github.com/serverless/serverless-graphql)
 - [React State Museum](https://github.com/GantMan/ReactStateMuseum)
 - [AWS AppSync Calculator](https://medium.com/@ryanjones_io/aws-appsync-calculator-a2ad9f65a5e3)
