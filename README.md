@@ -6,7 +6,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!   
+Awesome AWS AppSync curates the best AWS AppSync, tools, tutorials, articles and more. PRs are welcome!
 Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-amplify)
 
 ## AppSync GraphQL Clients
@@ -47,7 +47,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Top 9 AWS AppSync Features You Didn’t Know About](https://medium.com/open-graphql/top-9-aws-appsync-features-you-didnt-know-about-57224075ffb1)
 - [AWS AppSync code-centric development using CloudFormation](https://blissful.cc/articles/aws-appsync-code-centric-development-using-cloudformation/)
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
-- [Dead-simple AWS GraphQL API ](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
+- [Dead-simple AWS GraphQL API](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
 - [Calling AWS AppSync, or any GraphQL API, from AWS Lambda, part 1](https://www.fullsapps.com/2019/02/calling-aws-appsync-or-any-graphql-api.html)
 
 #### VTL
@@ -59,7 +59,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 
 #### React
 - [Getting into GraphQL with AWS AppSync](https://css-tricks.com/getting-into-graphql-with-aws-appsync/)
-- [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI ](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
+- [Create a Multiuser GraphQL CRUD(L) Elasticsearch App in 10 minutes with the new AWS Amplify CLI](https://medium.com/open-graphql/create-a-multiuser-graphql-crud-l-app-in-10-minutes-with-the-new-aws-amplify-cli-and-in-a-few-73aef3d49545)
 - [Implementing Search in GraphQL](https://medium.com/open-graphql/implementing-search-in-graphql-11d5f71f179)
 - [Building Serverless React GraphQL Applications with AWS AppSync](https://tylermcginnis.com/building-serverless-react-graphql-apps-with-aws-appsync/)
 - [SSR GraphQL with Next.js & AWS AppSync](https://medium.com/open-graphql/ssr-graphql-apps-with-next-js-aws-appsync-eaf7fbeb1bde)
@@ -130,7 +130,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Appsync Graphql Real-time Canvas](https://github.com/dabit3/appsync-graphql-real-time-canvas)
 - [AWS AppSync Chat](https://github.com/aws-samples/aws-appsync-chat)
 - [AWS AppSync Chat with AI features - Chatbots, Image Recognition, Sentiment Analisys, Translation, Text2Speech](https://github.com/aws-samples/aws-appsync-chat-starter-react)
-- [GraphQL events app with realtime and offline functionality using AWS AppSync ](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
+- [GraphQL events app with realtime and offline functionality using AWS AppSync](https://github.com/aws-samples/aws-mobile-appsync-events-starter-react)
 - [AWS AppSync Recipe App](https://github.com/dabit3/react-appsync-graphql-recipe-app)
 - [AWS AppSync GraphQL Photo Sample](https://github.com/aws-samples/aws-amplify-graphql)
 - [Unicorn Loyalty: E-Commerce Serverless GraphQL Loyalty Sample App](https://github.com/aws-samples/aws-serverless-appsync-loyalty)
