@@ -88,6 +88,9 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 #### Serverless Framework
 - [GraphQL APIs with AWS AppSync (3 part series)](https://medium.com/@cbartling/graphql-apis-with-aws-appsync-part-one-bb441a5c2d9b)
 
+#### SST
+- [AWS AppSync with SST and Live Lambda Dev](https://serverless-stack.com/examples/how-to-create-a-serverless-graphql-api-with-aws-appsync.html)
+
 #### Infrastructure as Code
 - [AWS AppSync + Pulumi + GraphQL Modules](https://github.com/bjerkio/pulumi-appsync-modules)
 
