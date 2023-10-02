@@ -49,6 +49,7 @@ Also check out [Awesome AWS Amplify](https://github.com/dabit3/awesome-aws-ampli
 - [Merge AppSync and Github API into One GraphQL API (on AWS Lambda)](https://medium.com/@hiroyuki.osaki/merge-appsync-and-github-api-into-one-graphql-api-on-aws-lambda-8ea4c42c2db2)
 - [Dead-simple AWS GraphQL API](https://medium.com/@mim3dot/dead-simple-aws-graphql-api-59db32510bfb)
 - [Calling AWS AppSync, or any GraphQL API, from AWS Lambda, part 1](https://www.fullsapps.com/2019/02/calling-aws-appsync-or-any-graphql-api.html)
+- [AWS AppSync and AWS Lambda as resolver](https://r11baka.hashnode.dev/how-to-connect-appsync-and-lambda)
 
 #### VTL
 - [AWS AppSync Velocity Templates Guide](https://medium.com/@gerard.sans/aws-appsync-velocity-templates-guide-55b9d2bff053)
